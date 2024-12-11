@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "798628242575",
+    "project_id": "thimar-59f98",
+    "storage_bucket": "thimar-59f98.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798628242575:android:7c3d2bc73a28e9e059bcfa",
+        "android_client_info": {
+          "package_name": "com.example.t7mara"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1gUdgb0SF8Ogxyix5WRLvVTzlkE2fL9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

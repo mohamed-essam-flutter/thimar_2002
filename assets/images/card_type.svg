@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="444.292" height="310.912" viewBox="0 0 444.292 310.912">
+  <defs>
+    <filter id="Background" x="0" y="0" width="444.292" height="310.912" filterUnits="userSpaceOnUse">
+      <feOffset dy="23" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="34" result="blur"/>
+      <feFlood flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Background-2" x="0" y="0" width="444.292" height="310.912" filterUnits="userSpaceOnUse">
+      <feOffset dy="23" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="34" result="blur-2"/>
+      <feFlood flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Background)">
+        <rect id="Background-3" data-name="Background" width="240.292" height="106.912" rx="10"/>
+      </g>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.803" y1="0.094" x2="0.162" y2="0.857" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#d1cfcf"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_889" data-name="Group 889" transform="translate(102 79)">
+    <g transform="matrix(1, 0, 0, 1, -102, -79)" filter="url(#Background-2)">
+      <rect id="Background-4" data-name="Background" width="240.292" height="106.912" rx="10" transform="translate(102 79)"/>
+    </g>
+    <g id="Mask_Group_10" data-name="Mask Group 10" transform="translate(0)" clip-path="url(#clip-path)">
+      <ellipse id="Ellipse_80" data-name="Ellipse 80" cx="56.667" cy="56.667" rx="56.667" ry="56.667" transform="translate(-6.8 37.3)" opacity="0.35" fill="url(#linear-gradient)"/>
+      <ellipse id="Ellipse_81" data-name="Ellipse 81" cx="56.667" cy="56.667" rx="56.667" ry="56.667" transform="translate(-48.733 -34.1)" opacity="0.35" fill="url(#linear-gradient)"/>
+      <ellipse id="Ellipse_82" data-name="Ellipse 82" cx="56.667" cy="56.667" rx="56.667" ry="56.667" transform="translate(143.933 -53.367)" opacity="0.35" fill="url(#linear-gradient)"/>
+      <ellipse id="Ellipse_83" data-name="Ellipse 83" cx="56.667" cy="56.667" rx="56.667" ry="56.667" transform="translate(143.933 37.3)" opacity="0.35" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="card_info" data-name="card info" transform="translate(17.081 16.721)">
+      <g id="number" transform="translate(0 63.074)">
+        <text id="_0197" data-name="****  ****  ****  0197" transform="translate(0 9)" fill="#fff" font-size="9" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="-0.02em"><tspan x="0" y="0" xml:space="preserve">****  ****  ****  0197</tspan></text>
+      </g>
+      <g id="logo" transform="translate(0 0)">
+        <path id="_2" data-name="2" d="M15.988,10.19l.376-2.331.345.166a5.333,5.333,0,0,0,2.518.546c.769,0,1.594-.319,1.6-1.016,0-.456-.345-.781-1.386-1.291-1.015-.5-2.359-1.333-2.344-2.828C17.112,1.412,18.974,0,21.616,0a6.558,6.558,0,0,1,2.4.437l-.362,2.256-.24-.12a4.688,4.688,0,0,0-2-.4c-1.047,0-1.532.463-1.532.9-.006.488.567.809,1.5,1.291C22.923,5.1,23.635,6,23.625,7.188c-.021,2.161-1.846,3.557-4.658,3.557A8.056,8.056,0,0,1,15.988,10.19Zm14.568.4s-.245-1.2-.325-1.56l-3.426,0c-.1.282-.563,1.565-.563,1.565H23.433l3.972-9.541a1.322,1.322,0,0,1,1.4-.863h2.067l2.165,10.4ZM27.574,6.9h2.22l-.619-3.006L29,3c-.135.391-.371,1.021-.355.994C28.64,3.991,27.8,6.3,27.574,6.9Zm-15.936,3.69L13.311.181h2.675l-1.673,10.41ZM2.81,1.541A10.848,10.848,0,0,0,0,.4L.034.182H4.348a1.124,1.124,0,0,1,1.212.879L6.5,5.845l.279,1.442L9.4.189h2.833L8.018,10.578l-2.83,0Z" transform="translate(0)" fill="#fff"/>
+      </g>
+      <g id="number-2" data-name="number" transform="translate(0 32.461)">
+        <text id="Mohamed_ali" data-name="Mohamed ali" transform="translate(0 9)" fill="#fff" font-size="9" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="-0.02em"><tspan x="0" y="0">Mohamed ali</tspan></text>
+      </g>
+    </g>
+    <rect id="Rectangle_324" data-name="Rectangle 324" width="10.717" height="10.39" rx="2" transform="translate(218.746 10.1)" fill="url(#linear-gradient-5)"/>
+    <text id="_06_22" data-name="06/22" transform="translate(204.013 91.049)" fill="#fff" font-size="9" font-family="Roboto-Regular, Roboto" letter-spacing="-0.02em"><tspan x="0" y="0">06/22</tspan></text>
+    <text id="VALID_DATE" data-name="VALID DATE" transform="translate(205.146 80.382)" fill="#fff" font-size="4" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="-0.02em"><tspan x="0" y="0">VALID DATE</tspan></text>
+    <g id="tick_1_" data-name="tick (1)" transform="translate(221.013 12.367)">
+      <g id="Group_17551" data-name="Group 17551" transform="translate(0)">
+        <path id="Path_21578" data-name="Path 21578" d="M6.493,68.094a.329.329,0,0,0-.466,0L2.079,72.042.562,70.524A.33.33,0,0,0,.1,70.99l1.75,1.75a.33.33,0,0,0,.466,0L6.493,68.56A.33.33,0,0,0,6.493,68.094Z" transform="translate(0 -67.997)"/>
+      </g>
+    </g>
+  </g>
+</svg>
